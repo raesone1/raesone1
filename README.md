@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://fb.com/radja rivaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radja rivaldi" height="30" width="40" /></a>
 <a href="https://instagram.com/radjaaaxp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radjaaaxp" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/TwmjMTbTjF?fbclid=PAZXh0bgNhZW0CMTEAAaYhPhDynHRD5yDooqfK--zwY1iLHlXOOduvpLMsNc72-Y2uC9I8jIG5F8A_aem_1ZNZBQXD3D5d6x-u6P4xBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/TwmjMTbTjF?fbclid=PAZXh0bgNhZW0CMTEAAaYhPhDynHRD5yDooqfK--zwY1iLHlXOOduvpLMsNc72-Y2uC9I8jIG5F8A_aem_1ZNZBQXD3D5d6x-u6P4xBw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
